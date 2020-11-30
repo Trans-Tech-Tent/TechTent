@@ -68,3 +68,7 @@ html::-webkit-scrollbar {
 .pad{
     padding:10%;
 }
+
+.foot{
+    width: 50%;
+}
