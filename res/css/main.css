@@ -1,0 +1,70 @@
+html body {
+    padding: 0;
+    margin: 0;
+
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+
+    font-family: sans-serif;
+    text-align: center;
+    font-size: large;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+#main {
+    min-height: 100vh;
+}
+
+.light {
+    background-color: #5a5475; 
+    color: white;
+    height: max-content;
+}
+
+.dark {
+    background-image: linear-gradient(#464258, #5a5475);
+    color: white;
+
+    padding: 1%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.post {
+    width: 100%;
+}
+
+.ver {
+    flex-direction: column;
+}
+
+.hor {
+    flex-direction: row;
+}
+
+.scale {
+    width: 75%;
+    object-fit: scale-down;
+    max-height: 50vh;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 100%;
+}
+
+.span {
+    grid-column: span 2;
+}
+
+.pad{
+    padding:10%;
+}
