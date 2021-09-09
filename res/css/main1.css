@@ -9,6 +9,8 @@ html body {
     font-family: sans-serif;
     text-align: center;
     font-size: large;
+
+    background: #4a2659;
 }
 
 html::-webkit-scrollbar {
