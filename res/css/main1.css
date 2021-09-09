@@ -4,6 +4,7 @@ html body {
 
     -ms-overflow-style: none;
     scrollbar-width: none;
+    overflow-x: hidden;
 
     font-family: sans-serif;
     text-align: center;
@@ -18,6 +19,17 @@ html::-webkit-scrollbar {
     min-height: 100vh;
 }
 
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+}
+
+p, li {
+    color: gainsboro;
+    height: max-content;
+    font-family: 'Georama', sans-serif;
+}
+
 .light {
     background-color: #5a5475; 
     color: white;
@@ -25,7 +37,7 @@ html::-webkit-scrollbar {
 }
 
 .dark {
-    background-image: linear-gradient(#464258, #5a5475);
+    background-color: #391747;
     color: white;
 
     padding: 1%;

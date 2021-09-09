@@ -1,43 +1,63 @@
 <!DOCTYPE html>
 
-<html> 
+<html lang="en"> 
 <head>
-    <link rel="stylesheet" href="res/css/main.css"/>
-    <script type="text/javascript">
-        if (screen.width <= 799) {
-            document.location = "mobile/index.html";
-        }
-    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="res/css/main1.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet"> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Georama:wght@300&display=swap" rel="stylesheet">
 </head>
-
-
 <body>
     <header class="dark flex">
-        <div>Trans Tech Tent</div>
+        <div class = "row">
+            <div class="col-sm-1"></div>
+            <div class="col-sm-10">
+                <a style="text-decoration: none; color: inherit;" href="index.html">
+                    <img style="float:left;" src="res/img/Tech-tent.png" alt="trans tech tent logo" height="60px">
+                    <h1>Trans Tech Tent</h1>
+                </a>
+            </div>
+            <div class="col-sm-1"></div>
+        </div>
     </header>
-
-    <div class="light flex ver container" id="main">
-        <div class="post span">
-            <img class="scale" src="res/img/Tech-tent-banner.png">
+    <br><br>
+    <div class="row">
+        <div class="col-sm-2"></div>
+        <div class="col-sm-8"><img class="scale" src="res/img/Tech-tent-banner.png"></div>
+        <div class="col-sm-2"></div>
+    </div>
+    <br><br>
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-4">
+            <p>The Trans Tech Tent is a small collective of tech enthusiasts in South Wales</p>
+            <p>We deliver workshops on tech skills like finding your feet with technology, using social media effectively, and staying safe online.</p>
+            <p>We also help repair, and refurbish equipment for the community. We accept hardware donations!</p>
+            <br>
         </div>
-        <div class="pad">
-            The Trans Tech Tent is a small collective of tech enthusiasts in South Wales<br><br><br><br>
-            We deliver workshops on tech skills like finding your feet with technology, using social media effectively, and staying safe online.<br><br><br>
-            We also help repair, and refurbish equipment for the community. We accept hardware donations!<br><br>
-        </div>
-        <div class="pad">
-            We run hands-on technical workshops that are open to anyone, regardless of their skill level, we cover topics like:<br><br>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-4">
+            <p>We run hands-on technical workshops that are open to anyone, regardless of their skill level, we cover topics like:</p>
             <ul>
                 <li>Working in Tech</li><br>
                 <li>Digital Forensics</li><br>
                 <li>Programming and Design</li><br>
                 <li>Right to Repair</li>
             </ul>
+            <br>
         </div>
-    </div> 
+        <div class="col-sm-1"></div>
+    </div>
+    <br><br>
 
     <footer class="dark flex">
-        <div class="foot">
+        <div class="foot" style="font-family: 'Poppins', sans-serif;">
             Follow us on one of our socials for more info as and when it happens!<br><br>
             <a href="https://www.facebook.com/TransTechTent"> <img src="res/img/fb512.png" alt="facebook" height="50px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.instagram.com/transtechtent"> <img src="res/img/ig500.png" alt="instagram" height="50px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +69,8 @@
         </div>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 
-</body>    
+
+</body>
 </html>
