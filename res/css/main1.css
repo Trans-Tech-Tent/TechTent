@@ -32,6 +32,11 @@ p, li {
     font-family: 'Georama', sans-serif;
 }
 
+a {
+    text-decoration: none; 
+    color: inherit;
+}
+
 .light {
     background-color: #5a5475; 
     color: white;
