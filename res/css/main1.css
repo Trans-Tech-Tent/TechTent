@@ -32,9 +32,23 @@ p, li {
     font-family: 'Georama', sans-serif;
 }
 
+h1, h2, h3, h4 {
+  color: white;
+}
+
 a {
-    text-decoration: none; 
+    text-decoration: underline dotted;
     color: inherit;
+}
+
+header a {
+    text-decoration: none;
+}
+
+p {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .light {
