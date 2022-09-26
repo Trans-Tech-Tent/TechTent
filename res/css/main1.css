@@ -105,3 +105,10 @@ p {
     top:50%;
     transform:translateY(-50%);
 }
+ul {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    justify-content: center;
+    margin: auto;
+}
