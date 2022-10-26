@@ -28,3 +28,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+# :^) need this to actually preview the thing on VScode bc i do not know what code is i just know how to google error messages until i stop seeing them
+gem "webrick", "~> 1.7"

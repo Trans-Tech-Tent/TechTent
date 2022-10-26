@@ -10,7 +10,7 @@ html body {
     text-align: center;
     font-size: large;
 
-    background: #4a2659;
+    background: #dbcaff;
 }
 
 html::-webkit-scrollbar {
@@ -27,13 +27,9 @@ h1 {
 }
 
 p, li {
-    color: gainsboro;
+    color: black;
     height: max-content;
     font-family: 'Georama', sans-serif;
-}
-
-h1, h2, h3, h4 {
-  color: white;
 }
 
 a {
@@ -46,20 +42,18 @@ header a {
 }
 
 p {
-    max-width: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .light {
     background-color: #5a5475; 
-    color: white;
     height: max-content;
 }
 
 .dark {
-    background-color: #391747;
-    color: white;
+    background-color: #c5a7d0;
 
     padding: 1%;
 }
@@ -103,5 +97,18 @@ p {
 }
 
 .foot{
-    width: 50%;
+    width:50%;
+}
+
+.centre{
+    position:relative;
+    top:50%;
+    transform:translateY(-50%);
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    justify-content: center;
+    margin: auto;
 }
