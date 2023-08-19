@@ -9,6 +9,9 @@ Here is a list of resources we think might be of use to the trans community.
 Got a suggestion for something we should add? Email us at [hello@transtechtent.com](mailto:hello@transtechtent.com),
 or shout at us in Discord.
 
+## Letter templates for your GP
+https://www.transinformed.co.uk/
+
 ## Self-injection safety
 - [https://genderkit.org.uk/resources/injections/](https://genderkit.org.uk/resources/injections/)
 - [https://www.harlemunited.org/wp-content/uploads/2020/05/Hormone-Self-Injection-Instructions.pdf](https://www.harlemunited.org/wp-content/uploads/2020/05/Hormone-Self-Injection-Instructions.pdf)
