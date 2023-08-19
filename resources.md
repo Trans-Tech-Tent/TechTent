@@ -10,7 +10,7 @@ Got a suggestion for something we should add? Email us at [hello@transtechtent.c
 or shout at us in Discord.
 
 ## Letter templates for your GP
-https://www.transinformed.co.uk/
+[https://www.transinformed.co.uk/](https://www.transinformed.co.uk/)
 
 ## Self-injection safety
 - [https://genderkit.org.uk/resources/injections/](https://genderkit.org.uk/resources/injections/)
