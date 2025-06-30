@@ -15,15 +15,15 @@ Our current articles of association can be viewed [here](/res/articles.pdf). The
 
 The current board of the company is comprised of:
 - Shash
-- Jane
+- Alice
 - Abby
-- Eva
+- Eva (Lauren)
 
 The current secretary of the company is Q.
 
 ## Annual accounts
 
-Our first annual accounts and community interest statement will be published by 15 March 2024.
+Our annual accounts and community interest annual reports are filed with [Companies House](https://find-and-update.company-information.service.gov.uk/company/14174163/filing-history) and can be viewed online. Alternatively, email [hello@transtechtent.com](mailto:hello@transtechtent.com) and we will be happy to assist.
 
 ## Company membership
 
