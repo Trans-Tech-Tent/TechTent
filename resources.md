@@ -18,7 +18,7 @@ or shout at us in Discord.
 
 ## T-gel
 We encourage people who want to start T to do research on whether injections or gel is the best option for you and your 
-lifestyle because both come with drawbacks and benefits depending on what you want.
+lifestyle, both come with drawbacks and benefits depending on what you want.
 
 In order to prevent T gel from transfer you should wait 4 hours before contact or cover the area that you've applied the
 gel once the gel has dried. Alternatively you can wash the area at least 2 hours after applying the gel.
@@ -42,12 +42,6 @@ a neurocardiogenic disorder, there are likely to be a number of influencing fact
 
 ## DIY T
 [diyhrt.wiki/transmasc](https://diyhrt.wiki/transmasc) is a good resource for DIY T.
-
-> However, DIY T isn't really something I recommend, it's a pain on multiple fronts.
-> I recommend private clinics over DIY cos safer medically and legally. 
-> Also while the upfront cost with private clinics is more, the long term cost is cheaper, 
-> especially if you convince your GP to do blood tests or shared care.  
-> _Ryan-Hardt (in Discord)_
 
 ## Lower surgeries
 - [GRS Surgery Post Operative Advice](/res/Vaginoplasty_discharge_information_booklet.pdf)
